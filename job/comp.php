@@ -100,10 +100,10 @@ if ($result->num_rows > 0) {
        <table class='table'>
         <tr>
 		<td>
-			<th>First Name</th>
-			<th>Last Name</th>
-			<th>Company in ID</th>
+			<th>Name</th>
+			<th>Website</th>
 			<th>email</th>
+			<th>country</th>
 			<th>Logo</th>
 		</td>
 		<tr>
