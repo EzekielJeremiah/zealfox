@@ -28,9 +28,9 @@
 	<div class="row">
 		<div class="col-md-4">
 			<form action="comp.php" method="POST">
-			<input class="form-control" type="text" name="FirstName" placeholder="First Name">
+			<input class="form-control" type="text" name="FirstName" placeholder="First Name" required="true">
 			<br>
-			<input class="form-control" type="text" name="LastName" placeholder="Last Name">
+			<input class="form-control" type="text" name="LastName" placeholder="Last Name" required="true">
 			<br>
 			<input class="form-control" type="text" name="Company" placeholder="Company">
 			<br>
