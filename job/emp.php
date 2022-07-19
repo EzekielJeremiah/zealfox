@@ -61,7 +61,7 @@ if ($result->num_rows > 0) {
 		<td>
 			<th>First Name</th>
 			<th>Last Name</th>
-			<th>Company in ID</th>
+			<th>Company</th>
 			<th>email</th>
 			<th>phone number</th>
 		</td>
