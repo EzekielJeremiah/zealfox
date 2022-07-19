@@ -44,7 +44,7 @@
 	<div class="row">
 		<div class="col-md-4">
 			<form action="comp.php" method="POST" enctype="multipart/form-data">
-			<input class="form-control" type="text" name="Name" placeholder="Name">
+			<input class="form-control" type="text" name="Name" placeholder="Conpany's Name" required="true">
 			<br>
 			<input class="form-control" type="url" name="website" placeholder="website">
 			<br>
